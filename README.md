@@ -85,13 +85,13 @@ The dataset is not included in this repository. Place the OAHS dataset in the ex
 Default Colab path used in the notebooks:
 
 ```text
-/content/drive/MyDrive/Msc_ML_project/dataset
+/content/drive/MyDrive/.../dataset
 ```
 
 Generated features are saved to:
 
 ```text
-/content/drive/MyDrive/Msc_ML_project/features_v1
+/content/drive/MyDrive/.../features_v1
 ```
 
 ## Requirements
@@ -126,7 +126,7 @@ The notebooks generate:
 
 ## Citation
 
-If you use or refer to this project, please cite the project report included in the `report/` folder.
+--------
 
 ## License
 
