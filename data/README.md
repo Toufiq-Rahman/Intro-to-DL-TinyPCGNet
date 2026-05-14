@@ -5,13 +5,13 @@ The OAHS dataset is not included in this repository because datasets are usually
 Before running `notebook_A_features.ipynb`, place the raw OAHS PCG recordings in:
 
 ```text
-/content/drive/MyDrive/Msc_ML_project/dataset
+/content/drive/MyDrive/.../dataset
 ```
 
 Notebook A will generate cached feature files in:
 
 ```text
-/content/drive/MyDrive/Msc_ML_project/features_v1
+/content/drive/MyDrive/.../features_v1
 ```
 
 Expected classes:
